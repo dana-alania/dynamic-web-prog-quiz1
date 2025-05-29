@@ -29,7 +29,7 @@ class GamesController extends Controller
     {
         //Step 4.
         $results = array_filter($this->game_list, function ($game) use ($id) {
-            return $game['id'] == $id; // only changed != to ==
+            return $game['id'] == $id;
         });
         return view('games.show', ['games' => $results]);
     }
