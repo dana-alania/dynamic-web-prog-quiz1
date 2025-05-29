@@ -4,10 +4,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Games List</title>
     <style>
-    body {
-    font-family: Arial, sans-serif;
-    padding: 25px;
-    }
+        body {
+        padding: 20px;
+        }
     </style>
     </head>
 

@@ -5,8 +5,7 @@
     <title>Specific Game</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            padding: 25px;
+            padding: 20px;
         }
     </style>
     </head>
